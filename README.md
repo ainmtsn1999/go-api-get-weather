@@ -5,4 +5,5 @@
 > ![image](https://user-images.githubusercontent.com/37493831/193824861-bc0f10cf-2575-498e-b1f1-fe482bddbd6a.png)
 
 ### Big Thanks for
-- https://www.sohamkamani.com/golang/json/
+- [sohamkamani](https://www.sohamkamani.com/golang/json/)
+- [tutorialedge](https://tutorialedge.net/golang/consuming-restful-api-with-go/)
