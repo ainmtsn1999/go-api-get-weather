@@ -9,3 +9,4 @@
 - [tutorialedge](https://tutorialedge.net/golang/consuming-restful-api-with-go/)
 - [dasarpemrogramangolang-novalagung](https://dasarpemrogramangolang.novalagung.com/A-client-http-request-simple.html)
 - [Go Dev](https://go.dev/talks/2015/json.slide#11)
+- [levelup.gitconnected.com](https://levelup.gitconnected.com/consuming-a-rest-api-using-golang-b323602ba9d8)
