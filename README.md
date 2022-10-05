@@ -2,7 +2,7 @@
 > create an API to get weather info with city name input using [openweather](https://openweathermap.org/)
 
 ### FLow
-actually, [openweather](https://openweathermap.org/) have been provide an easy way for me to get weather info with city name input. but, in this program i tried to explore this API. so, i'm doing a flow with making function getLoc to get a latitude and logitude from city name input, then i'm making function getWeather using the latitude and longitude to get the weather info from [openweather](https://openweathermap.org/).
+actually, [openweather](https://openweathermap.org/) have been provide an easy way for me to get weather info with city name input. but, in this program i tried to explore this API. so, i'm doing a flow with making a function getLoc to get a latitude and logitude from city name input, then i'm making a function getWeather using the latitude and longitude to get the weather info from [openweather](https://openweathermap.org/).
 
 ### Documentation
 > ![image](https://user-images.githubusercontent.com/37493831/193824861-bc0f10cf-2575-498e-b1f1-fe482bddbd6a.png)
